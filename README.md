@@ -1,5 +1,5 @@
 ## Badges
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b4ed2821-fcaa-40fc-9825-cc055340291b/deploy-status)](https://app.netlify.com/sites/react-gatsby-blog-qazipoor/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b4ed2821-fcaa-40fc-9825-cc055340291b/deploy-status)](https://app.netlify.com/sites/react-gatsby-blog-qazipoor)
 
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
